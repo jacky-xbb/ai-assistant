@@ -1,0 +1,18 @@
+/* src/custom.css */
+
+#chatbot-conversation-container {
+  flex-grow: 1; /* Ensure the container grows to fill available space */
+  margin-top: 16px; /* Add some space at the top */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Ensure the main container takes the full viewport height */
+}
+
+.mt-auto {
+  margin-top: auto;
+}
+
