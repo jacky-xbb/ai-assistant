@@ -1,5 +1,7 @@
 # AI Assistant
 
+![flowchart](https://raw.githubusercontent.com/jacky-xbb/pics/main/uPic/fIFruC.png)
+
 ## Introduction
 
 This project provides a chatbot that interacts with users based on the contents of provided documents. It integrates AI capabilities to understand and respond to user queries using the context of the documents stored in a vector database.
